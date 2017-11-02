@@ -49,7 +49,7 @@ public class BMI extends AppCompatActivity {
         }
 
     }
-
+    //sad
     public void reset(View view){
         textHeight.setText("");
         textWeight.setText("");
